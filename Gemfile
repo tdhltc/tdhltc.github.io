@@ -1,7 +1,12 @@
-source 'https://rubygems.org'
+source "https://rubygems.org"
 
-gem "github-pages", '197', group: :jekyll_plugins
+gem "jekyll", "3.8.5"
 
-# enable tzinfo-data for local build
-# gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw]
-gem 'jekyll-paginate'
+group :development do
+  gem "jekyll-last-modified-at"
+  gem "stringex"
+end
+
+group :jekyll_plugins do
+  gem "match_regex"
+end
