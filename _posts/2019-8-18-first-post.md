@@ -2,7 +2,7 @@
 layout: post
 title: The first post
 categories: common
-tags: solidworks
+tags: solidworks catia
 ---
 
 Hi there!
