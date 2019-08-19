@@ -4,13 +4,14 @@ title: The first post
 categories: common
 tags: solidworks 
 ---
+A example photo
 
 ## From GrabCad:
 ![my product class=thumbnail](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/0fc96b8a4cbd6d98923c56c76605679c/large.JPG)
 
 ## From Imgur
 <div class="thumbnail">
-![an example image class=thumbnail](https://i.imgur.com/nPtsBit.png)
+![an example image](https://i.imgur.com/nPtsBit.png)
 </div>
 
 # Gif animation
