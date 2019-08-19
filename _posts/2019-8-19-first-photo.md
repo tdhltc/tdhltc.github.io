@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The first post
+title: The first photo post
 categories: common
 tags: solidworks 
 ---
