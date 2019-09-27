@@ -1,5 +1,5 @@
 ---
-layout: react_post
+layout: react_page
 title: The first embed react app
 categories: react
 tags: react
