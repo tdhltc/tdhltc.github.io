@@ -92,6 +92,6 @@ TODO app
         a()
     }([])
 </script>
-<!-- <script src="{{ site.baseurl }}/static/2019-9-27-first-react_app/js/runtime~main.f3414f9d.js"></script> -->
+
 <script src="{{ site.baseurl }}/static/2019-9-27-first-react_app/js/2.6faab1ee.chunk.js"></script>
 <script src="{{ site.baseurl }}/static/2019-9-27-first-react_app/js/main.5700e42a.chunk.js"></script>
