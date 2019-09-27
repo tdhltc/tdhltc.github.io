@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.css"],"names":[],"mappings":"AAEC,KACG,QAAS,CACT,SAIJ","file":"main.d2af5bb9.chunk.css","sourcesContent":["\n\n body {\n    margin: 0;\n    padding: 0;\n\n    /* display: flex;\n    justify-content: center; */\n}\n"]}

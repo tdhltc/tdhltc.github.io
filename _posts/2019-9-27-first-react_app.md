@@ -91,5 +91,5 @@ Let's place one here:
         a()
     }([])
 </script>
-<script src="js/2019-9-27-first-react_app/2.6faab1ee.chunk.js"></script>
-<script src="js/2019-9-27-first-react_app/main.5700e42a.chunk.js"></script>
+<script src="./static/2019-9-27-first-react_app/js/2.6faab1ee.chunk.js"></script>
+<script src="./static/2019-9-27-first-react_app/js/main.5700e42a.chunk.js"></script>
